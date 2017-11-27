@@ -73,4 +73,9 @@ fun main(args: Array<String>){
     println (cevap)
 
     println("buda githubtesti")
+
+    var github = "Merhaba github :)"
+    println(github)
+
+
 }
